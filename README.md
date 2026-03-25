@@ -9,15 +9,13 @@
 
 - 🌱 I’m currently learning **Next JS, THree JS, Mongo DB and some other frameworks focusing on web app developement**
 
-- 👨‍💻 All of my projects are available at [https://nawaz-srm.github.io/my-portfolio/](https://nawaz-srm.github.io/my-portfolio/)
-
-- 📝 I regularly write articles on [https://medium.com/@mailfun94](https://medium.com/@mailfun94)
+- 👨‍💻 Portfolio can be accessed at [[https://nawaz-srm.github.io/my-portfolio/](https://v0-nawaz-portfolio.vercel.app/)]([https://nawaz-srm.github.io/my-portfolio/](https://v0-nawaz-portfolio.vercel.app/))
 
 - 💬 Ask me about **C++, Python,Javascript and Its Framworks**
 
 - 📫 How to reach me **sheriffnawaz641@gmail.com**
 
-- ⚡ Fun fact **I dislike Java a bit**
+- ⚡ Fun fact **I dislike AI a bit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
