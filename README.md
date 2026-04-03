@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nawazhasin1" target="blank"><img src="https://img.shields.io/twitter/follow/nawazhasin1?logo=twitter&style=for-the-badge" alt="nawazhasin1" /></a> </p>
 
-- 🌱 I’m currently learning **Next JS, THree JS, Mongo DB and some other frameworks focusing on web app developement**
+- 🌱 I’m currently learning **Java and some other frameworks in it focusing on java web app developement**
 
 - 👨‍💻 Portfolio can be accessed at [[https://nawaz-srm.github.io/my-portfolio/](https://v0-nawaz-portfolio.vercel.app/)]([https://nawaz-srm.github.io/my-portfolio/](https://v0-nawaz-portfolio.vercel.app/))
 
